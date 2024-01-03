@@ -1,4 +1,6 @@
 import React from 'react';
+import './HomePage.css';
+
 
 function HomePage() {
   const projects = [
