@@ -28,9 +28,7 @@ function App() {
           <Route path="/contact-me" element={<ContactMePage />} />
           <Route path="/" element={<HomePage />} />
         </Routes>
-        <footer className="App-footer">
-          <p>©️ 2023 Ali Aliyev. Web & Mobile 1</p>
-        </footer>
+        <footer className="App-footer"></footer>
       </div>
     </Router>
   );
