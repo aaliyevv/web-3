@@ -18,43 +18,42 @@ function FlashCardsPage() {
       status: "Learned"
     },
     {
-      id: 1,
+      id: 3,
       question: "What is React?",
       answer: "A JavaScript library for building user interfaces",
       lastModified: new Date().toISOString(),
       status: "Want to Learn"
     },{
-      id: 1,
+      id: 4,
       question: "What is React?",
       answer: "A JavaScript library for building user interfaces",
       lastModified: new Date().toISOString(),
       status: "Want to Learn"
     },{
-      id: 1,
+      id: 5,
       question: "What is React?",
       answer: "A JavaScript library for building user interfaces",
       lastModified: new Date().toISOString(),
       status: "Want to Learn"
     },{
-      id: 1,
+      id: 6,
       question: "What is React?",
       answer: "A JavaScript library for building user interfaces",
       lastModified: new Date().toISOString(),
       status: "Want to Learn"
     },{
-      id: 1,
+      id: 7,
       question: "What is React?",
       answer: "A JavaScript library for building user interfaces",
       lastModified: new Date().toISOString(),
       status: "Want to Learn"
     },{
-      id: 1,
+      id: 8,
       question: "What is React?",
       answer: "A JavaScript library for building user interfaces",
       lastModified: new Date().toISOString(),
       status: "Want to Learn"
     },
-    // Add more cards with unique IDs
   ]);
 
   const [searchTerm, setSearchTerm] = useState("");
